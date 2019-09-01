@@ -33,7 +33,7 @@ document.write(
       </li>\
     </ul>\
     <p id='copyright'>\
-      Copyright © 2017 CWRUbotix\
+      Copyright © 2019 CWRUbotix\
     </p>\
   </div>"
 );
