@@ -10,6 +10,7 @@ document.write(
 	  <li><a href='index.html#projects'>Projects</a></li>\
     <li><a href='blog/index.html'>Blog</a></li>\
 	  <li><a href='index.html#sponsorship'>Sponsorship</a></li>\
+    <li><a href='calendar.html'>Events</a></li>\
     <li><a href='index.html#contact'>Contact</a></li>\
   </ul>"
 );
